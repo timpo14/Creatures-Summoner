@@ -1,2 +1,3 @@
 # Creatures-Summoner
-Pixel characters creator
+Pixel characters creator.
+Other information will be later.
