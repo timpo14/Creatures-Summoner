@@ -1,0 +1,19 @@
+//This file is created for peoples, who want to create their own theme.
+//It's normal to me, i like modding programs themself after all.
+//DON'T FORGET! Write colors in HEX format, or like "#RRGGBB".
+//There is template:
+{
+    "Background" : "For dark themes: darkest one. For light: lightest one.", 
+    "CharacterBackground" : "For dark themes: lighter then 'Background'. For light: darker then 'Background'.",
+    "ButtonsBackground" : "For dark themes: lighter then 'CharacterBackground'. For light: darker then 'CharacterBackground'.",
+    "ButtonsHoveredBackground" : "For dark themes: lighter then 'ButtonsBackground'. For light: darker then 'ButtonsBackground'",
+    "Text" : "For dark themes: lighter then 'ButtonsHoveredBackground'. For light: darker then 'ButtonsHoveredBackground'.",
+    "TextHovered" : "For dark themes: lightest one. For light: darkest one.",
+    "LinkText" : "Blue color or whatever you want :D"
+}
+//So, you filled all colors. "And what?"
+//First: name your file with theme like "NameOfTheme_Dark.jsonc" or "NameOfTheme_Light,jsonc". JSONC(JSON with comments) is required.
+//Then:write on start of file two comments: 
+//First string - "Theme from user(s) that is not enabled by default." 
+//Then: "Idea and realization by: (your nick on GitHub)", and you can add nicks of your friends, like: "Idea and realization by:timpo14, UnyPy.".
+//Commit and push your theme in "src/Themes", branch "fanmade-themes".
