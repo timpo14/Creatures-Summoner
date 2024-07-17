@@ -1,0 +1,11 @@
+//Default theme for Creatures Summoner. 
+//Idea and realization by:timpo14.
+{
+    "Background" : "#191919",
+    "CharacterBackground" : "#2E2E2E",
+    "ButtonsBackground" : "#333333",
+    "ButtonsHoveredBackground" : "#616161",
+    "Text" : "#CFCFCF",
+    "TextHovered" : "#FFFFFF",
+    "LinkText" : "#29B9FF"
+}
